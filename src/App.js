@@ -3,7 +3,11 @@ import "./App.css";
 import NavBars from "./components/NavBars";
 import { css } from "@emotion/react";
 import PropagateLoader from "react-spinners/PropagateLoader";
-import Header from './components/Header'
+import Header from "./components/Header";
+import Product from "./components/Product";
+import About from "./components/About";
+import Contact from "./components/Contact";
+
 function App() {
   const [loading, setLoading] = useState(false);
   const overide = css`
@@ -15,7 +19,7 @@ function App() {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    }, 5000);
+    }, 3000);
   }, []);
   return (
     <div className="App">
@@ -29,7 +33,10 @@ function App() {
       ) : (
         <>
           <NavBars />
-          <Header/>
+          <Header />
+          <Product />
+          <About />
+          <Contact />
         </>
       )}
     </div>
