@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurant-React-UI/static/css/main.f625021a.chunk.css",
+    "main.js": "/restaurant-React-UI/static/js/main.7bf84983.chunk.js",
+    "main.js.map": "/restaurant-React-UI/static/js/main.7bf84983.chunk.js.map",
+    "runtime-main.js": "/restaurant-React-UI/static/js/runtime-main.e9484a84.js",
+    "runtime-main.js.map": "/restaurant-React-UI/static/js/runtime-main.e9484a84.js.map",
+    "static/js/2.b40671eb.chunk.js": "/restaurant-React-UI/static/js/2.b40671eb.chunk.js",
+    "static/js/2.b40671eb.chunk.js.map": "/restaurant-React-UI/static/js/2.b40671eb.chunk.js.map",
+    "index.html": "/restaurant-React-UI/index.html",
+    "static/css/main.f625021a.chunk.css.map": "/restaurant-React-UI/static/css/main.f625021a.chunk.css.map",
+    "static/js/2.b40671eb.chunk.js.LICENSE.txt": "/restaurant-React-UI/static/js/2.b40671eb.chunk.js.LICENSE.txt",
+    "static/media/about.5cfaf8a9.png": "/restaurant-React-UI/static/media/about.5cfaf8a9.png",
+    "static/media/index.css": "/restaurant-React-UI/static/media/footer.53806b7d.png",
+    "static/media/s1.8a4fa455.png": "/restaurant-React-UI/static/media/s1.8a4fa455.png",
+    "static/media/s2.b0665d18.png": "/restaurant-React-UI/static/media/s2.b0665d18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9484a84.js",
+    "static/js/2.b40671eb.chunk.js",
+    "static/css/main.f625021a.chunk.css",
+    "static/js/main.7bf84983.chunk.js"
+  ]
+}
