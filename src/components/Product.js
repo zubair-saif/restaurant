@@ -13,7 +13,7 @@ function Product() {
       <div className="a-container">
         <ProductBox image={pimage1} title="Luger Burger" />
         <ProductBox image={pimage2} title="Li Pigeon Burger" />
-        <ProductBox image={pimage2} title="Li Pigeon Burger" />
+        <ProductBox image={pimage1} title="Luger Burger" />
       </div>
     </div>
   );
